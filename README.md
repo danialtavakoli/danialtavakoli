@@ -5,6 +5,7 @@ Android Developer based in Genoa, Italy. I build apps with Kotlin, Jetpack Compo
 - 🔭 Working at Widecons on an industrial Android app
 - 📱 Part of the team behind Leopard, a Kotlin Multiplatform attendance app on Google Play (1,000+ installs)
 - 🎓 MSc student in Software Engineering at the University of Genoa
+- 🌐 Portfolio: [danialtavakoli.github.io](https://danialtavakoli.github.io)
 - 📫 Open to full-time roles, remote EU included: dnialtavakoli@gmail.com
 
 ## Tech
